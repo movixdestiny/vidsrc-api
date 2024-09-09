@@ -1,1 +1,1 @@
-export const vidsrcBase = "https://vidsrc.cc";
+export const vidsrcBase = "https://vidsrc.icu";
